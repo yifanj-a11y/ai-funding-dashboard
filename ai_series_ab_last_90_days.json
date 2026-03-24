@@ -1,0 +1,327 @@
+[
+  {
+    "company":"LMArena",
+    "date":"2026-01-06",
+    "stage":"Series A",
+    "amount_announced":150,
+    "currency":"USD",
+    "usd_m":150.0,
+    "lead_investors":[
+      "Felicis",
+      "UC Investments"
+    ],
+    "sector":"Model eval \/ research",
+    "description":"AI evaluation platform that benchmarks models with side-by-side human preference data.",
+    "source":"https:\/\/www.prnewswire.com\/news-releases\/lmarena-raises-150-million-to-build-the-worlds-most-trusted-ai-evaluation-platform-302653012.html",
+    "amount_label":"$150M"
+  },
+  {
+    "company":"BrightHeart",
+    "date":"2026-01-08",
+    "stage":"Series A",
+    "amount_announced":11,
+    "currency":"EUR",
+    "usd_m":12.7556,
+    "lead_investors":[
+      "Odyss\u00e9e Venture",
+      "GO Capital"
+    ],
+    "sector":"Healthcare AI",
+    "description":"AI platform for prenatal ultrasound that helps clinicians detect fetal heart and brain anomalies.",
+    "source":"https:\/\/sofinnovapartners.com\/news\/BrightHeart%20Raises%20%E2%82%AC11M%20Series%20A%20to%20Scale%20Expert-Level%20AI%20Platform%20for%20Prenatal%20Ultrasound",
+    "amount_label":"\u20ac11M"
+  },
+  {
+    "company":"Harmattan AI",
+    "date":"2026-01-12",
+    "stage":"Series B",
+    "amount_announced":200,
+    "currency":"USD",
+    "usd_m":200.0,
+    "lead_investors":[
+      "Dassault Aviation"
+    ],
+    "sector":"Defense AI",
+    "description":"Defense AI company building autonomous mission systems, including AI-driven strike and surveillance drones.",
+    "source":"https:\/\/www.harmattan.ai\/blog\/harmattan-ai-200-million-series-b-led-by-dassault-aviation\/",
+    "amount_label":"$200M"
+  },
+  {
+    "company":"Ricursive Intelligence",
+    "date":"2026-01-26",
+    "stage":"Series A",
+    "amount_announced":300,
+    "currency":"USD",
+    "usd_m":300.0,
+    "lead_investors":[
+      "Lightspeed Venture Partners"
+    ],
+    "sector":"AI chips \/ infrastructure",
+    "description":"Frontier AI lab using AI and distributed computing to compress semiconductor design timelines.",
+    "source":"https:\/\/www.prnewswire.com\/news-releases\/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design-302670061.html",
+    "amount_label":"$300M"
+  },
+  {
+    "company":"Sixfold",
+    "date":"2026-01-29",
+    "stage":"Series B",
+    "amount_announced":30,
+    "currency":"USD",
+    "usd_m":30.0,
+    "lead_investors":[
+      "Brewer Lane"
+    ],
+    "sector":"Insurance AI",
+    "description":"AI underwriting software that helps insurers modernize risk selection and decision-making.",
+    "source":"https:\/\/www.sixfold.ai\/content\/post\/series-b-ai-underwriter",
+    "amount_label":"$30M"
+  },
+  {
+    "company":"Artificial Labs",
+    "date":"2026-02-03",
+    "stage":"Series B",
+    "amount_announced":45,
+    "currency":"USD",
+    "usd_m":45.0,
+    "lead_investors":[
+      "CommerzVentures"
+    ],
+    "sector":"Insurance AI",
+    "description":"Digital broking and underwriting platform for specialty and commercial insurance markets.",
+    "source":"https:\/\/artificial.io\/company\/blog\/artificial-labs-raises-usd45m-series-b-to-accelerate-global-growth\/",
+    "amount_label":"$45M"
+  },
+  {
+    "company":"Positron AI",
+    "date":"2026-02-04",
+    "stage":"Series B",
+    "amount_announced":230,
+    "currency":"USD",
+    "usd_m":230.0,
+    "lead_investors":[
+      "ARENA Private Wealth",
+      "Jump Trading",
+      "Unless"
+    ],
+    "sector":"AI chips \/ infrastructure",
+    "description":"AI inference hardware company building energy-efficient systems and next-generation inference silicon.",
+    "source":"https:\/\/www.businesswire.com\/news\/home\/20260204250472\/en\/Positron-AI-Raises-%24230-Million-Series-B-at-Over-%241-Billion-Valuation-to-Scale-Energy-Efficient-AI-Inference",
+    "amount_label":"$230M"
+  },
+  {
+    "company":"Fundamental",
+    "date":"2026-02-05",
+    "stage":"Series A",
+    "amount_announced":225,
+    "currency":"USD",
+    "usd_m":225.0,
+    "lead_investors":[
+      "Oak HC\/FT",
+      "Valor Equity Partners",
+      "Battery Ventures",
+      "Salesforce Ventures"
+    ],
+    "sector":"Enterprise data AI",
+    "description":"AI lab building foundation models that analyze large volumes of structured enterprise data.",
+    "source":"https:\/\/techcrunch.com\/2026\/02\/05\/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis\/",
+    "amount_label":"$225M"
+  },
+  {
+    "company":"Goodfire",
+    "date":"2026-02-05",
+    "stage":"Series B",
+    "amount_announced":150,
+    "currency":"USD",
+    "usd_m":150.0,
+    "lead_investors":[
+      "B Capital"
+    ],
+    "sector":"Research lab \/ model tooling",
+    "description":"Interpretability-focused AI lab building tools to understand, steer, and design models.",
+    "source":"https:\/\/www.goodfire.ai\/blog\/our-series-b",
+    "amount_label":"$150M"
+  },
+  {
+    "company":"Gather AI",
+    "date":"2026-02-09",
+    "stage":"Series B",
+    "amount_announced":40,
+    "currency":"USD",
+    "usd_m":40.0,
+    "lead_investors":[
+      "Smith Point Capital Management"
+    ],
+    "sector":"Logistics \/ robotics AI",
+    "description":"Physical AI platform that uses drones and computer vision to automate warehouse inventory intelligence.",
+    "source":"https:\/\/www.gather.ai\/news\/gather-ai-raises-40m-led-by-smith-point-capital-management-to-scale-its-physical-ai-platform-for-global-logistics-2",
+    "amount_label":"$40M"
+  },
+  {
+    "company":"Jump",
+    "date":"2026-02-19",
+    "stage":"Series B",
+    "amount_announced":80,
+    "currency":"USD",
+    "usd_m":80.0,
+    "lead_investors":[
+      "Insight Partners"
+    ],
+    "sector":"Fintech AI",
+    "description":"AI operating system for financial advisors that automates notes, workflows, and client follow-up.",
+    "source":"https:\/\/jump.ai\/press\/series-b-announcement",
+    "amount_label":"$80M"
+  },
+  {
+    "company":"MatX",
+    "date":"2026-02-24",
+    "stage":"Series B",
+    "amount_announced":500,
+    "currency":"USD",
+    "usd_m":500.0,
+    "lead_investors":[
+      "Jane Street",
+      "Situational Awareness"
+    ],
+    "sector":"AI chips \/ infrastructure",
+    "description":"AI chip startup building processors optimized for LLM training workloads.",
+    "source":"https:\/\/matx.com\/research\/series_b",
+    "amount_label":"$500M"
+  },
+  {
+    "company":"VoiceLine",
+    "date":"2026-02-24",
+    "stage":"Series A",
+    "amount_announced":10,
+    "currency":"EUR",
+    "usd_m":11.596,
+    "lead_investors":[
+      "Alstin Capital",
+      "Peak"
+    ],
+    "sector":"Voice \/ workflow AI",
+    "description":"Voice AI platform for frontline enterprise teams that captures updates and triggers workflows hands-free.",
+    "source":"https:\/\/peak.capital\/voiceline_raises_seriesa\/",
+    "amount_label":"\u20ac10M"
+  },
+  {
+    "company":"Juicebox",
+    "date":"2026-03-10",
+    "stage":"Series B",
+    "amount_announced":80,
+    "currency":"USD",
+    "usd_m":80.0,
+    "lead_investors":[
+      "DST Global"
+    ],
+    "sector":"HR \/ recruiting AI",
+    "description":"AI recruiting platform that finds, ranks, and reaches candidates before competitors do.",
+    "source":"https:\/\/juicebox.ai\/blog\/juicebox-raises-80m-series-b",
+    "amount_label":"$80M"
+  },
+  {
+    "company":"Wonderful",
+    "date":"2026-03-12",
+    "stage":"Series B",
+    "amount_announced":150,
+    "currency":"USD",
+    "usd_m":150.0,
+    "lead_investors":[
+      "Insight Partners"
+    ],
+    "sector":"Agent platform",
+    "description":"Enterprise AI agent platform built to deploy production-grade agents in complex organizations.",
+    "source":"https:\/\/techcrunch.com\/2026\/03\/12\/wonderful-raises-150m-series-b-at-2b-valuation\/",
+    "amount_label":"$150M"
+  },
+  {
+    "company":"Edra",
+    "date":"2026-03-18",
+    "stage":"Series A",
+    "amount_announced":30,
+    "currency":"USD",
+    "usd_m":30.0,
+    "lead_investors":[
+      "Sequoia Capital"
+    ],
+    "sector":"Workflow AI",
+    "description":"Enterprise automation startup that turns operational data into a living knowledge base for AI agents.",
+    "source":"https:\/\/tech.eu\/2026\/03\/19\/edra-raises-309m-series-a-to-turn-enterprise-data-into-self-improving-ai-agents\/",
+    "amount_label":"$30M"
+  },
+  {
+    "company":"Deeptune",
+    "date":"2026-03-19",
+    "stage":"Series A",
+    "amount_announced":43,
+    "currency":"USD",
+    "usd_m":43.0,
+    "lead_investors":[
+      "Andreessen Horowitz"
+    ],
+    "sector":"AI agent tooling \/ RL",
+    "description":"Infrastructure startup building reinforcement-learning training environments, or 'training gyms,' for AI agents.",
+    "source":"https:\/\/fortune.com\/2026\/03\/19\/andreessen-horowitz-ai-startups-deeptune-series-a\/",
+    "amount_label":"$43M"
+  },
+  {
+    "company":"Latent Health",
+    "date":"2026-03-19",
+    "stage":"Series A",
+    "amount_announced":80,
+    "currency":"USD",
+    "usd_m":80.0,
+    "lead_investors":[
+      "Spark Capital",
+      "Transformation Capital"
+    ],
+    "sector":"Healthcare AI",
+    "description":"Clinical AI company that automates medication approval and prior-authorization workflows.",
+    "source":"https:\/\/latenthealth.com\/press\/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment",
+    "amount_label":"$80M"
+  },
+  {
+    "company":"Gimlet Labs",
+    "date":"2026-03-23",
+    "stage":"Series A",
+    "amount_announced":80,
+    "currency":"USD",
+    "usd_m":80.0,
+    "lead_investors":[
+      "Menlo Ventures"
+    ],
+    "sector":"AI chips \/ infrastructure",
+    "description":"Multi-silicon inference cloud that runs AI workloads across GPUs, CPUs, and alternative accelerators.",
+    "source":"https:\/\/www.globenewswire.com\/news-release\/2026\/03\/23\/3260653\/0\/en\/AI-Inference-Software-Innovator-Gimlet-Labs-Ushers-in-New-Era-of-Breakthrough-AI-Performance-for-Frontier-Labs-and-Leading-AI-Companies-With-80-Million-in-Series-A-Funding-Led-by-M.html",
+    "amount_label":"$80M"
+  },
+  {
+    "company":"PointOne",
+    "date":"2026-03-23",
+    "stage":"Series A",
+    "amount_announced":16,
+    "currency":"USD",
+    "usd_m":16.0,
+    "lead_investors":[
+      "8VC"
+    ],
+    "sector":"Legal AI",
+    "description":"Legal-tech platform that uses AI to automate time entry, bill review, and pricing intelligence for law firms.",
+    "source":"https:\/\/pointone.com\/blog\/pointone-raises-16-million-series-a",
+    "amount_label":"$16M"
+  },
+  {
+    "company":"Dash0",
+    "date":"2026-03-23",
+    "stage":"Series B",
+    "amount_announced":110,
+    "currency":"USD",
+    "usd_m":110.0,
+    "lead_investors":[
+      "Balderton Capital"
+    ],
+    "sector":"DevOps \/ observability AI",
+    "description":"Observability platform using AI agents to triage telemetry, find root causes, and automate operational fixes.",
+    "source":"https:\/\/siliconangle.com\/2026\/03\/23\/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents\/",
+    "amount_label":"$110M"
+  }
+]
